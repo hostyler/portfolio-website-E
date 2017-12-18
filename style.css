@@ -1,3 +1,29 @@
-.body .img {
+body {
+    background-color: antiquewhite;
+    
+}
+.container {
+    width:1170px;
+    margin:auto;
+}
+.header .navbar {
+    background-color: darkslategrey;
+    color: #FFF;
+    overflow: hidden;
+}
+.header .navbar ul {
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 25px;
+    overflow: hidden;
+    float: right;
+}
+.header .navbar h2{
     float: left;
+    
+}
+.header .navbar ul li {
+    float: left;
+    padding-left: 20px;
+    
 }
